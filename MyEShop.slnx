@@ -1,2 +1,6 @@
 <Solution>
+    <Folder Name="/src/">
+        <Project Path="src/MyEShop.AppHost/MyEShop.AppHost.csproj" />
+        <Project Path="src/MyEShop.ServiceDefaults/MyEShop.ServiceDefaults.csproj" />
+    </Folder>
 </Solution>
